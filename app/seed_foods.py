@@ -19,6 +19,20 @@ FOOD_SEED_DATA = [
     {"name": "telur dadar", "calories": 153, "protein": 11, "fat": 12, "carbs": 1, "serving_type": "gram"},
     {"name": "tempe goreng", "calories": 34, "protein": 2, "fat": 2.5, "carbs": 2, "serving_type": "piece"},
     {"name": "nasi putih", "calories": 129, "protein": 3, "fat": 0.2, "carbs": 28, "serving_type": "gram"},
+    {"name": "ayam bakar", "calories": 200, "protein": 28, "fat": 10, "carbs": 0.3, "serving_type": "gram"},
+    {"name": "ayam betutu", "calories": 212, "protein": 15, "fat": 17, "carbs": 3, "serving_type": "gram"},
+    {"name": "perkedel kentang", "calories": 143, "protein": 3, "fat": 7, "carbs": 17, "serving_type": "gram"},
+    {"name": "ikan goreng", "calories": 170, "protein": 25, "fat": 3, "carbs": 0, "serving_type": "gram"},
+    {"name": "ikan bakar", "calories": 150, "protein": 25, "fat": 3, "carbs": 1, "serving_type": "gram"},
+    {"name": "tempe mendoan", "calories": 200, "protein": 11, "fat": 13, "carbs": 13, "serving_type": "gram"},
+    {"name": "pempek", "calories": 234, "protein": 15, "fat": 6, "carbs": 28, "serving_type": "portion"},
+    {"name": "sate padang", "calories": 24, "protein": 3, "fat": 1, "carbs": 1, "serving_type": "skewer"},
+    {"name": "sate lilit", "calories": 51, "protein": 4, "fat": 4, "carbs": 1, "serving_type": "skewer"},
+    {"name": "mie aceh", "calories": 238, "protein": 7, "fat": 7, "carbs": 37, "serving_type": "portion"},
+    {"name": "soto betawi", "calories": 363, "protein": 11, "fat": 24, "carbs": 31, "serving_type": "portion"},
+    {"name": "coto makassar", "calories": 289, "protein": 25, "fat": 15, "carbs": 13, "serving_type": "portion"},
+    {"name": "tinutuan", "calories": 349, "protein": 11, "fat": 8, "carbs": 62, "serving_type": "portion"},
+    {"name": "papeda", "calories": 58, "protein": 0, "fat": 0, "carbs": 14, "serving_type": "gram"},
 ]
 
 
